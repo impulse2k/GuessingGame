@@ -1,2 +1,2 @@
 # GuessingGame
-word: lol
+answer: lol
